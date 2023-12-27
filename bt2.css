@@ -1,0 +1,18 @@
+.vuong{
+    width: 200px;
+    height: 200px;
+    background: red;
+}
+.tron{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background: blue;
+}
+.dacBiet{
+    width: 200px;
+    height: 200px;
+    border-top-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    background: purple;
+}
